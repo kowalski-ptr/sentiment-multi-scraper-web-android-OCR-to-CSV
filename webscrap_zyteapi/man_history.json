@@ -1,0 +1,2342 @@
+[
+    {
+    "timestamp": "2026-01-16T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -30
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 21
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 8
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -6
+      }
+    ]
+  },
+    {
+    "timestamp": "2026-01-14T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -30
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 12
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 16
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -5
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -35
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 23
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -9
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -3
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-07T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -34
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 11
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 45
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -11
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-31T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 0
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -30
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 21
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 45
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -3
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-30T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -28
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 11
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 45
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -4
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-29T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -22
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -11
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 21
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -1
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-19T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 1
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -24
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 43
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -3
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-16T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 44
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 21
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 45
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -5
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-15T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -11
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 1
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 45
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 43
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -8
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-10T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 0
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 1
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 40
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 42
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -12
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-09T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 36
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 42
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -14
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-08T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 1
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 36
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 15
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 42
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -10
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 1
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 40
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -8
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-02T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -6
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 3
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -11
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-28T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 1
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 40
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -14
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 9
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 40
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -17
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-25T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 7
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -17
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-21T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 11
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -5
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-20T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 9
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 25
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -10
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-19T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 11
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 28
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 15
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -12
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-18T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 15
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 28
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 16
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -11
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-17T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 8
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 0
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 37
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -8
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-14T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 8
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 9
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 0
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 12
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -7
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-13T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 15
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 37
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 12
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 36
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -6
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-12T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -22
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 40
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 5
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -21
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-11T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 28
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 11
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 36
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -27
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-10T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 12
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -27
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 26
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 23
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -21
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-06T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 26
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -28
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-05T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -26
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-04T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 23
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -27
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -20
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -10
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -11
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 37
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -21
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-31T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -21
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -15
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 28
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 42
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -17
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-30T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -21
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -14
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 16
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 23
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 42
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -19
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-29T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -22
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -17
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 25
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 27
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 23
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 19
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 21
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 39
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -18
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-28T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -26
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -13
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -12
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 26
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 24
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 41
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -24
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-27T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -28
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -16
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 25
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 25
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 26
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 17
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 26
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 45
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -22
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-24T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -25
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -16
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 28
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 26
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 13
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 24
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 48
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -27
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-23T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 21
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 25
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 48
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -24
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-22T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -16
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -12
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -6
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 41
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 18
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 22
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 49
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -26
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-21T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -16
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -9
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 43
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 12
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 24
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 49
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -22
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-20T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -15
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 43
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 20
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 49
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -22
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-17T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -1
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 42
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 8
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 12
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 49
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -17
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-16T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 43
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -2
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 15
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 48
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -14
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-15T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -12
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -5
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 43
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 15
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 47
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -24
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -19
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -19
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 29
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 35
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -8
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 3
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 48
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -25
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-10T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -19
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -19
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 34
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 48
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -28
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-08T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -12
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 4
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -14
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 30
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 33
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 38
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -18
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 48
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -23
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-05T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -14
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 14
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -17
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 36
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -13
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 47
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -26
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-02T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": 2
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": 10
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -7
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 23
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 36
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": -15
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": -4
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -24
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27T15:28",
+    "data": [
+      {
+        "pair": "NASDAQ",
+        "sentiment_percent": -3
+      },
+      {
+        "pair": "DAX",
+        "sentiment_percent": -6
+      },
+      {
+        "pair": "SP500",
+        "sentiment_percent": -12
+      },
+      {
+        "pair": "BTC",
+        "sentiment_percent": 31
+      },
+      {
+        "pair": "OILWTI",
+        "sentiment_percent": 32
+      },
+      {
+        "pair": "COPPER",
+        "sentiment_percent": 40
+      },
+      {
+        "pair": "XAUUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "XAGUSD",
+        "sentiment_percent": 6
+      },
+      {
+        "pair": "WHEAT",
+        "sentiment_percent": 46
+      },
+      {
+        "pair": "COFFEE",
+        "sentiment_percent": -17
+      }
+    ]
+  }
+]

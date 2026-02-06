@@ -1,0 +1,25 @@
+# Recommended Python version: 3.11.9 (tested for compatibility with these dependencies)
+scrapy==2.12.0
+python-dotenv==1.0.0
+twisted[asyncio]==24.11.0
+attrs>=23.1.0
+service-identity>=24.1.0
+cryptography>=41.0.0
+pyOpenSSL>=23.2.0
+schedule==1.2.1
+cloudscraper>=1.2.71
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+fake-useragent>=1.4.0
+requests>=2.31.0
+selenium>=4.16.0
+webdriver-manager>=4.0.1
+
+# OCR and image processing for Android app automation
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# Additional tools (install separately):
+# | maestro     | curl -Ls "https://get.maestro.mobile.dev" | bash |
+# | Android SDK | Manual install from developer.android.com       |
+# | adb         | Included in Android SDK platform-tools          |

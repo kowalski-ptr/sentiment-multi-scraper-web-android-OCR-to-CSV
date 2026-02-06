@@ -1,0 +1,30 @@
+name: Check data
+on:
+  push:
+    paths:
+    - 'data/**'
+    - 'symbol_info/**'
+    - 'README.md'
+    branches:
+    - master
+  workflow_dispatch:
+
+concurrency: master
+
+jobs:
+  Check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout validation scripts"
+        uses: actions/checkout@v4
+        with:
+          repository: tradingview-pine-seeds/validation-scripts
+          path: scripts
+
+      - name: "Check data and create PR"
+        env:
+          ACTION_TOKEN: ${{ secrets.ACTION_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+        shell: bash
+        run: scripts/check_data_and_create_pr.sh

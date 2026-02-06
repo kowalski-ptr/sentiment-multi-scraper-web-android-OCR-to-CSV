@@ -1,0 +1,497 @@
+[
+  {
+    "pair": "AUDCAD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -45.1
+  },
+  {
+    "pair": "AUDCHF",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -11.8
+  },
+  {
+    "pair": "AUDJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 12.8
+  },
+  {
+    "pair": "AUDNZD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -26.7
+  },
+  {
+    "pair": "AUDUSD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -37.6
+  },
+  {
+    "pair": "CADCHF",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 36.9
+  },
+  {
+    "pair": "CADJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 32.0
+  },
+  {
+    "pair": "CHFJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -10.2
+  },
+  {
+    "pair": "DAX",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 16.0
+  },
+  {
+    "pair": "DJ30",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 4.1
+  },
+  {
+    "pair": "EURAUD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 23.6
+  },
+  {
+    "pair": "EURCAD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -28.2
+  },
+  {
+    "pair": "EURCHF",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 35.7
+  },
+  {
+    "pair": "EURGBP",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 6.0
+  },
+  {
+    "pair": "EURJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 16.0
+  },
+  {
+    "pair": "EURNZD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 29.0
+  },
+  {
+    "pair": "EURUSD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -38.1
+  },
+  {
+    "pair": "GBPAUD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 34.1
+  },
+  {
+    "pair": "GBPCAD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -28.8
+  },
+  {
+    "pair": "GBPCHF",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 24.4
+  },
+  {
+    "pair": "GBPJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -2.6
+  },
+  {
+    "pair": "GBPNZD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 29.0
+  },
+  {
+    "pair": "GBPUSD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -28.1
+  },
+  {
+    "pair": "NZDCAD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -38.2
+  },
+  {
+    "pair": "NZDCHF",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 9.6
+  },
+  {
+    "pair": "NZDJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -5.2
+  },
+  {
+    "pair": "NZDUSD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": -38.2
+  },
+  {
+    "pair": "USDCAD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 31.2
+  },
+  {
+    "pair": "USDCHF",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 37.2
+  },
+  {
+    "pair": "USDJPY",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 10.6
+  },
+  {
+    "pair": "XAUUSD",
+    "timestamp": "2026-01-27T14:41",
+    "sentiment_percent": 23.1
+  },
+  {
+    "pair": "AUDCAD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -37.6
+  },
+  {
+    "pair": "AUDCHF",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -30.3
+  },
+  {
+    "pair": "AUDJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -3.8
+  },
+  {
+    "pair": "AUDNZD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -12.1
+  },
+  {
+    "pair": "AUDUSD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -18.4
+  },
+  {
+    "pair": "CADCHF",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -0.8
+  },
+  {
+    "pair": "CADJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -6.9
+  },
+  {
+    "pair": "CHFJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 2.4
+  },
+  {
+    "pair": "DAX",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 11.4
+  },
+  {
+    "pair": "DJ30",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 22.5
+  },
+  {
+    "pair": "EURAUD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 18.8
+  },
+  {
+    "pair": "EURCAD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 22.0
+  },
+  {
+    "pair": "EURCHF",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -1.0
+  },
+  {
+    "pair": "EURGBP",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 21.4
+  },
+  {
+    "pair": "EURJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 14.1
+  },
+  {
+    "pair": "EURNZD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 15.2
+  },
+  {
+    "pair": "EURUSD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 14.7
+  },
+  {
+    "pair": "GBPAUD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 13.8
+  },
+  {
+    "pair": "GBPCAD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -15.0
+  },
+  {
+    "pair": "GBPCHF",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -14.0
+  },
+  {
+    "pair": "GBPJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 2.5
+  },
+  {
+    "pair": "GBPNZD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 15.6
+  },
+  {
+    "pair": "GBPUSD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 6.9
+  },
+  {
+    "pair": "NZDCAD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -29.7
+  },
+  {
+    "pair": "NZDCHF",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -2.6
+  },
+  {
+    "pair": "NZDJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -8.0
+  },
+  {
+    "pair": "NZDUSD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 4.0
+  },
+  {
+    "pair": "USDCAD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -23.0
+  },
+  {
+    "pair": "USDCHF",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -8.5
+  },
+  {
+    "pair": "USDJPY",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": -11.8
+  },
+  {
+    "pair": "XAUUSD",
+    "timestamp": "2026-01-16T15:35",
+    "sentiment_percent": 15.2
+  },
+  {
+    "pair": "AUDCAD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -11.0
+  },
+  {
+    "pair": "AUDCHF",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -24.8
+  },
+  {
+    "pair": "AUDJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -6.7
+  },
+  {
+    "pair": "AUDNZD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -25.7
+  },
+  {
+    "pair": "AUDUSD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -17.9
+  },
+  {
+    "pair": "CADCHF",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -1.0
+  },
+  {
+    "pair": "CADJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -17.8
+  },
+  {
+    "pair": "CHFJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -2.0
+  },
+  {
+    "pair": "DAX",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 8.6
+  },
+  {
+    "pair": "DJ30",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 20.0
+  },
+  {
+    "pair": "EURAUD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 0.5
+  },
+  {
+    "pair": "EURCAD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 8.3
+  },
+  {
+    "pair": "EURCHF",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -14.3
+  },
+  {
+    "pair": "EURGBP",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 25.7
+  },
+  {
+    "pair": "EURJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 5.1
+  },
+  {
+    "pair": "EURNZD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -4.8
+  },
+  {
+    "pair": "EURUSD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 4.5
+  },
+  {
+    "pair": "GBPAUD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -5.4
+  },
+  {
+    "pair": "GBPCAD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -20.5
+  },
+  {
+    "pair": "GBPCHF",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -25.0
+  },
+  {
+    "pair": "GBPJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -9.4
+  },
+  {
+    "pair": "GBPNZD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -27.3
+  },
+  {
+    "pair": "GBPUSD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -8.6
+  },
+  {
+    "pair": "NZDCAD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 21.5
+  },
+  {
+    "pair": "NZDCHF",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 9.0
+  },
+  {
+    "pair": "NZDJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -18.5
+  },
+  {
+    "pair": "NZDUSD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 18.2
+  },
+  {
+    "pair": "USDCAD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -12.7
+  },
+  {
+    "pair": "USDCHF",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -9.4
+  },
+  {
+    "pair": "USDJPY",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": -6.2
+  },
+  {
+    "pair": "XAUUSD",
+    "timestamp": "2026-01-14T15:53",
+    "sentiment_percent": 24.4
+  },
+  {
+    "pair": "AUDCAD",
+    "timestamp": "2026-01-13T15:36",
+    "sentiment_percent": -40.3
+  },
+  {
+    "pair": "AUDCHF",
+    "timestamp": "2026-01-13T15:36",
+    "sentiment_percent": -27.3
+  },
+  {
+    "pair": "AUDJPY",
+    "timestamp": "2026-01-13T15:36",
+    "sentiment_percent": -31.6
+  },
+  {
+    "pair": "AUDNZD",
+    "timestamp": "2026-01-13T15:36",
+    "sentiment_percent": -32.9
+  },
+  {
+    "pair": "AUDUSD",
+    "timestamp": "2026-01-13T15:36",
+    "sentiment_percent": -27.8
+  },
+  {
+    "pair": "CADCHF",
+    "timestamp": "2026-01-13T15:36",
+    "sentiment_percent": 12.7
+  }
+]

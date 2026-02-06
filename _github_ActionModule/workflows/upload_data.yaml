@@ -1,0 +1,57 @@
+name: Upload data
+
+on:
+  pull_request_target:
+    paths:
+      - 'symbol_info/**'
+      - 'data/**'
+      - 'README.md'
+    branches:
+      - master
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      all:
+        description: 'Upload all data'
+        required: true
+        type: boolean
+        default: false
+      is_local:
+        description: 'Upload local data'
+        required: true
+        type: boolean
+        default: false
+      full_depth:
+        description: 'Upload full depth'
+        required: true
+        type: boolean
+        default: false
+
+jobs:
+  Upload:
+    runs-on: [self-hosted, release]
+    steps:
+      - name: "Checkout PR"
+        if: ${{ !github.event.inputs.is_local }}
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: "Checkout Original Repo"
+        uses: actions/checkout@v4
+        with:
+          path: target
+
+      - name: "Check & upload"
+        env:
+          PR_NUMBER: ${{ github.event.number }}
+          REPO: ${{ github.repository }}
+          GROUP: ${{ github.event.repository.name }}
+          ALL_DATA: ${{ github.event.inputs.all }}
+          LOCAL_DATA: ${{ github.event.inputs.is_local }}
+          FULL_DEPTH: ${{ github.event.inputs.full_depth }}
+          PR_CLOSED: ${{ github.event.pull_request.closed }}
+          IS_LOCAL: ${{ github.event.inputs.is_local }}
+        shell: bash
+        run: /usr/local/bin/pine-seeds/scripts/main.sh

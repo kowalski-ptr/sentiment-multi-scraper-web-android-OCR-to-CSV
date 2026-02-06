@@ -1,0 +1,68 @@
+appId: com.NAME-APP.mobile.trading.app
+name: "APP Sentiment Data Capture"
+---
+
+# Launch the app
+- launchApp
+
+# Wait for app to load
+- extendedWaitUntil:
+    visible: "Hot markets"
+    timeout: 60000
+
+# If we see a popup or dialog, close it
+- runFlow:
+    when:
+      visible: "×"
+    commands:
+      - tapOn: "×"
+
+# Navigate to Hottest markets section if not already there
+# The sentiment icon is in the bottom navigation bar
+- runFlow:
+    when:
+      notVisible: "Hot markets"
+    commands:
+      # Tap on the sentiment/stats icon (4th icon from left in bottom bar)
+      - tapOn:
+          point: "500,1260"
+
+- extendedWaitUntil:
+    visible: "Hot markets"
+    timeout: 10000
+
+# Make sure we're on the "bottom right" tab
+- tapOn: "bottom right"
+- waitForAnimationToEnd
+
+# Scroll to top of the list first
+- repeat:
+    times: 5
+    commands:
+      - swipe:
+          start: "540,400"
+          end: "540,1800"
+          duration: 300
+      - waitForAnimationToEnd
+
+# Wait for list to settle at top - look for the header text that's always visible at top
+- extendedWaitUntil:
+    visible: "Follow the most popular"
+    timeout: 5000
+
+# Take first screenshot
+- takeScreenshot: "/mnt/projects/sentimentTMSapp/screenshots/screen_00"
+
+# Scroll and capture - 50 screenshots should cover all instruments
+- repeat:
+    times: 50
+    commands:
+      - swipe:
+          start: "540,1400"
+          end: "540,900"
+          duration: 400
+      - waitForAnimationToEnd
+      - runScript:
+          file: ../take_screenshot.js
+          env:
+            ITERATION: "${maestro.iteration}"

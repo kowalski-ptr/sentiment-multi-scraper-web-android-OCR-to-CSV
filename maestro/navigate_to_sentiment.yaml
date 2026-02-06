@@ -1,0 +1,90 @@
+# NOTE: Replace this with your actual Android app package name
+appId: com.example.trading.app
+name: "Navigate to Sentiment Screen"
+---
+
+# Screen unlock is handled by bash script before Maestro runs
+
+# Step 1: Launch the trading app
+- launchApp
+- waitForAnimationToEnd
+
+# Step 2: Tap LOG IN on welcome screen
+- runFlow:
+    when:
+      visible: "LOG IN"
+    commands:
+      - tapOn: "LOG IN"
+      - waitForAnimationToEnd
+
+# Step 2b: Handle cookie consent popup (appears AFTER clicking Log In)
+- runFlow:
+    when:
+      visible: "Accept All Cookies"
+    commands:
+      - tapOn: "Accept All Cookies"
+      - waitForAnimationToEnd
+
+# NOTE: Credentials are entered manually by user (man-in-the-middle approach)
+# Maestro will FAIL here if not logged in, then ADB fallback takes over with waiting logic
+
+# Step 2c: Wait for main screen - indicates successful login
+# NO optional: true - Maestro MUST fail if not logged in so fallback can handle it
+# NOTE: Replace "Text header on top of app main screen" with your app's main screen text element
+- extendedWaitUntil:
+    visible: "Text header on top of app main screen"
+    timeout: 15000
+
+# Step 2d: Dismiss rating popup if it appears
+- runFlow:
+    when:
+      visible: "Not now"
+    commands:
+      - tapOn: "Not now"
+      - waitForAnimationToEnd
+
+# Step 3: Tap on the menu icon in bottom right (More menu)
+# NOTE: Adjust coordinates based on your app's layout
+- tapOn:
+    point: "980,2300"
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "TextSentiment"
+    timeout: 5000
+    optional: true
+
+# Step 4: Tap on "Text Sentiment" tile
+# NOTE: Adjust coordinates based on your app's layout
+- tapOn:
+    point: "190,400"
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "Hot markets"
+    timeout: 5000
+    optional: true
+
+# Step 5: Tap on "Hot markets" tile
+# NOTE: Adjust coordinates based on your app's layout
+- tapOn:
+    point: "350,850"
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "Name of the tab at the left bottom on the app screen"
+    timeout: 5000
+    optional: true
+
+# Step 6: Tap on "bottom right" tab (bottom tabs bar)
+# NOTE: Adjust coordinates based on your app's layout
+- tapOn:
+    point: "900,2130"
+- waitForAnimationToEnd
+
+# Step 7: Scroll to top of the list
+- repeat:
+    times: 5
+    commands:
+      - swipe:
+          start: "540,400"
+          end: "540,1800"
+          duration: 300
+      - waitForAnimationToEnd
